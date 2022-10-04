@@ -5,7 +5,7 @@
 
 Hi guys :D. My name is Dan and i'm web-developer. 
 
-Chech my lasts project: (https://vercel.com/dashboard) 
+Chech my last projects: https://react-pizza-beryl.vercel.app/
 
 
 For Russian: 
