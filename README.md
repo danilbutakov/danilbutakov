@@ -26,7 +26,7 @@ For Russian:
 нужно было создать собственное приложение с расписанием занятий института. Мы работали с JSON, где и хранилась вся информация. Расписание, группы, и тд. Мы писали приложение на React и PHP.
 
 
-Skills: HTML / CSS / SCSS / JS / PHP / MySQL / PostgresSQL / MongoDB / React / REST API / LAMP / BEM / Git / Bootstrap / JQuery / NodeJS
+Skills: HTML / CSS / SCSS / JS / PHP / MySQL / PostgresSQL / MongoDB / React / Redux / Redux Toolkit / REST API / LAMP / BEM / Git / Bootstrap / JQuery / NodeJS
 
 - 🔭 I’m currently working on https://github.com/danilbutakov/reactPizza 
 - 🌱 I’m currently learning TypeSCript 
