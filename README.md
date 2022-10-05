@@ -5,7 +5,13 @@
 
 Hi guys :D. My name is Dan and i'm web-developer. 
 
-Chech my last projects: https://react-pizza-beryl.vercel.app/
+Chech my last projects: 
+
+ReactPizza:
+https://react-pizza-beryl.vercel.app/
+
+ReactSneakers:
+https://react-sneakers-mu.vercel.app/
 
 
 For Russian: 
