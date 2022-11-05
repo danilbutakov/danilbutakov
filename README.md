@@ -7,6 +7,9 @@ Hi guys :D. My name is Dan and i'm web-developer.
 
 Chech my last projects: 
 
+Our StartUp
+https://thirdteam-schedule.online
+
 ReactPizza:
 https://react-pizza-beryl.vercel.app/
 
