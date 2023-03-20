@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Dan
-#### I am Junior React Developer
+#### I'm Junior React Developer
 
 ![Alt Text](https://media.giphy.com/media/aDS8SjVtS3Mwo/giphy.gif)
 
