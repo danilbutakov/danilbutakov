@@ -22,11 +22,3 @@ Skills: Flutter / Get / bloc / Supabase / React / React Native, expo-cli / Fireb
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilbutakov)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=danilbutakov&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=danilbutakov)  
-
-![GitHub metrics](https://metrics.lecoq.io/danilbutakov)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=danilbutakov)  
-
-![Profile views](https://gpvc.arturio.dev/danilbutakov)  
